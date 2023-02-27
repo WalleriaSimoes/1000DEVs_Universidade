@@ -1,6 +1,6 @@
 package aula02.universidade;
 
-public abstract class Funcionario {
+public class Funcionario {
 
 	private String nome;
 	private String cpf;
